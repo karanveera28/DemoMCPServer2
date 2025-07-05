@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/demomcpserver.egg-info/PKG-INFO
+src/demomcpserver.egg-info/SOURCES.txt
+src/demomcpserver.egg-info/dependency_links.txt
+src/demomcpserver.egg-info/entry_points.txt
+src/demomcpserver.egg-info/requires.txt
+src/demomcpserver.egg-info/top_level.txt
+src/mcpserver/__init__.py
+src/mcpserver/__main__.py
+src/mcpserver/deployment.py
