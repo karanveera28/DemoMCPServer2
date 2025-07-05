@@ -1,7 +1,7 @@
-from deployment import mcp
+import deployment
 
 def main():
-    mcp.run()
+    deployment.mcp.run()
 
 if __name__ == "__main__":
     main()
